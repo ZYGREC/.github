@@ -5,8 +5,8 @@
 **Ingénierie logicielle · Infrastructure IT · Systèmes intelligents**
 
 [![Website](https://img.shields.io/badge/zygrec.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zygrec.com)
-[![ZYPAY](https://img.shields.io/badge/zygrecpay.com-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zygrecpay.com)
-[![ZYKEEZ](https://img.shields.io/badge/zykeez.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zykeez.com)
+[![ZYPAY](https://img.shields.io/badge/zygrecpay.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zygrecpay.com)
+[![ZYKEEZ](https://img.shields.io/badge/zykeez.com-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zykeez.com)
 [![Demo](https://img.shields.io/badge/demo.zygrec.com-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://demo.zygrec.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zygrec)
@@ -17,7 +17,7 @@
 
 ---
 
-ZYGREC conçoit, déploie et opère des solutions technologiques pour les entreprises : logiciels métier, infrastructure réseau, cloud, sécurité et intégrations hardware. Nos produits propriétaires couvrent la paie et le contrôle d'accès. Nous développons aussi des applications sur mesure — POS, ERP léger, portails web, APIs — pour les PME et moyennes entreprises.
+ZYGREC conçoit, déploie et opère des solutions technologiques pour les entreprises : logiciels métier, infrastructure réseau, cloud et sécurité. Nos produits propriétaires couvrent la paie et le contrôle d'accès à distance. Nous développons aussi des applications sur mesure — POS, ERP léger, portails web, APIs — pour les PME et moyennes entreprises.
 
 **Contact** · [contact@zygrec.com](mailto:contact@zygrec.com) · [dev@zygrec.com](mailto:dev@zygrec.com) · **Démos** · [demo.zygrec.com](https://demo.zygrec.com)
 
@@ -47,18 +47,16 @@ Solution de paie conçue pour fonctionner en environnement contraint : calcul au
 <td width="50%" valign="top">
 
 ### ZYKEEZ
-**Contrôle d'accès intelligent**
+**Ouverture de porte à distance**
 
 [zykeez.com](https://zykeez.com)
 
-Système de gestion d'accès physique avec pilotage mobile, authentification biométrique et traçabilité complète des événements.
+Application mobile permettant d'ouvrir à distance des portes équipées de terminaux BioBridge, avec authentification biométrique côté téléphone avant chaque ouverture.
 
-- **Biométrie** — empreinte digitale, Face ID
+- Ouverture à distance des terminaux **BioBridge**
+- Authentification **biométrique** (empreinte digitale, Face ID)
 - Apps **Android & iOS** (React Native)
-- Architecture **multi-tenant**, multi-sites
-- Terminaux **FingerTec** / BioBridge
-- Traçabilité des événements en temps réel
-- Ouverture et gestion à distance
+- Historique des ouvertures
 
 </td>
 </tr>
@@ -82,14 +80,21 @@ Solutions logicielles adaptées aux besoins opérationnels des petites et moyenn
 
 ## Domaines d'intervention
 
+**Cœur de métier — logiciel & infrastructure**
+
 | Domaine | Périmètre |
 |---|---|
+| **Développement** | Applications web & mobile, APIs REST, automatisation |
 | **Infrastructure** | VPS, serveurs, réseaux, Active Directory (AD DS, GPO, DNS, DHCP) |
 | **Cloud** | Microsoft Azure — déploiement, administration, migration |
 | **Messagerie** | Microsoft 365, Exchange Server, Google Workspace |
 | **Sécurité** | Cybersécurité, contrôle d'accès, audit et durcissement |
-| **Développement** | Applications web & mobile, APIs REST, automatisation |
 | **Data** | Business Intelligence, MySQL, PostgreSQL, SQL Server |
+
+**Services complémentaires**
+
+| Domaine | Périmètre |
+|---|---|
 | **Énergie & IoT** | Systèmes solaires photovoltaïques, stockage batterie, HVAC |
 | **Support** | Assistance technique distante et sur site, maintenance, conseil |
 
@@ -123,7 +128,7 @@ Solutions logicielles adaptées aux besoins opérationnels des petites et moyenn
 
 **Plateformes**
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.apple.com)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
